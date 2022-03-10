@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8ab4a68.css",
-    "main.js": "/static/js/main.ac685194.js",
-    "index.html": "/index.html",
-    "main.b8ab4a68.css.map": "/static/css/main.b8ab4a68.css.map",
-    "main.ac685194.js.map": "/static/js/main.ac685194.js.map"
+    "main.css": "/MTGToolkitPage/static/css/main.b8ab4a68.css",
+    "main.js": "/MTGToolkitPage/static/js/main.2ef5a805.js",
+    "index.html": "/MTGToolkitPage/index.html",
+    "main.b8ab4a68.css.map": "/MTGToolkitPage/static/css/main.b8ab4a68.css.map",
+    "main.2ef5a805.js.map": "/MTGToolkitPage/static/js/main.2ef5a805.js.map"
   },
   "entrypoints": [
     "static/css/main.b8ab4a68.css",
-    "static/js/main.ac685194.js"
+    "static/js/main.2ef5a805.js"
   ]
 }
